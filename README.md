@@ -1,4 +1,4 @@
-# assignment 2 comp 248 2022
+# assignment 2 comp-248 winter 2022
 
 In this project I explore how to use if else statements and cases, to custom different outputs depending on the user's input. 
 
